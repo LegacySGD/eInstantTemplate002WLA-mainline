@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="en_US">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="BUY" value="Buy"/>
+<phrase key="TRY" value="Try"/>
+<phrase key="wagerType" value="Wager Type"/>
+<phrase key="gridStandard" value="Base Game"/>
+<phrase key="gridBonus" value="Bonus Turns"/>
+<phrase key="noBonusGrids" value="No Bonus Turns"/>
+<phrase key="prizes" value="Prizes"/>
+<phrase key="A" value="Purple Mask"/>
+<phrase key="B" value="Blue Mask"/>
+<phrase key="C" value="Green Mask"/>
+<phrase key="D" value="Bird"/>
+<phrase key="E" value="Fish"/>
+<phrase key="F" value="Flower"/>
+<phrase key="W" value="TIKI SUN"/>
+</translation>
